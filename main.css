@@ -76,10 +76,18 @@ body, html {
   }
 
 p .left {
+    margin-left: 10px;
+    color: white;
+    font-size: 40px;
+    background-color: #00cba9; 
     text-align: left;
 }
 
 p .right {
+    margin-right: 10px;
+    color: white;
+    font-size: 40px;
+    background-color: #00cba9; 
     text-align: right;
 }
 
