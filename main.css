@@ -94,6 +94,8 @@ h2 {
 .strip {
     width: 60%;
     margin: auto;
+    margin-top: 10px;
+    font-family: arial, helvetica, sans-serif;
     padding: 24px;
     background-color: #48c072;
     color: #ffffff;
