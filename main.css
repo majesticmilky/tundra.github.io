@@ -101,3 +101,13 @@ h2 {
     color: #ffffff;
     border-radius: 4px;
 }
+
+.closebtn {
+    color: #ffffff;
+    float: right;
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
